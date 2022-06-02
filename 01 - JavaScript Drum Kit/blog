@@ -1,0 +1,7 @@
+Goals:
+1. Play the corresponding sound - on Button Click
+2. Momentarily increase the size of Button
+3. Momentarily apply a yellow border to it.
+
+attempt1:
+using event propogation
