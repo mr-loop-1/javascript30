@@ -1,0 +1,10 @@
+my take
+
+1. select all as a nodelist
+2. then do event propogation to check which one pressed
+3. then check all till that
+
+misunderstood
+
+2. keep track of last checked or if none, then one before 0th.
+3. then 
